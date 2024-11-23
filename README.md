@@ -56,4 +56,4 @@ pytest: pip install pytest
 3. To access the API Documentation, Visit the URL provided on your terminal after running the application to view and interact with the API documentation.
 
 
-
+setting up fastapi
